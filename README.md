@@ -8,4 +8,4 @@ dashboard public link 3 https://public.tableau.com/views/db_16963492243850/Dashb
 
 story https://public.tableau.com/views/Housesinmetropolitan/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
-Demo link https://www.mediafire.com/file/4qmzgns0i8tayw5/Video.Guru_20231009_204619059.mp4/file
+Demo link https://drive.google.com/file/d/1JYu_C4he5bwsaBZYq61QNguwY5sHZrJO/view?usp=sharing
